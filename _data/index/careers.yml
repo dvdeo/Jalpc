@@ -30,7 +30,7 @@
   
   -name:
     detail: Working at CLC - Computational Languistics Center
-    18n: company_c
+    i18n: company_c
   desc:
     detail: Web developer
     i18n: company_c_desc
