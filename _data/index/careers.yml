@@ -29,7 +29,7 @@
   icon: fa-plus-square  
   
 - name:
-    detail: Working for Computational Languistics Center - CLC
+    detail: Working for Computational Linguistics Center - CLC
     i18n: company_c
   desc:
     detail: Web developer
@@ -38,6 +38,6 @@
     detail: Sep. 2015
     i18n: company_c_date
   job:
-    detail: Computational Languistics Center - CLC
+    detail: Computational Linguistics Center - CLC
     i18n: company_c_job
   icon: fa-plus-square  
