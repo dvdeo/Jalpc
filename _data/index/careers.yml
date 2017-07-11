@@ -26,18 +26,19 @@
   job:
     detail: HCM University of Science
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: fa-plus-square 
   
-  -name:
-    detail: Working at CLC - Computational Languistics Center
+  - name:
+    detail: Doing MSc
     i18n: company_c
   desc:
-    detail: Web developer
+    detail: Graduate in Computer science
     i18n: company_c_desc
   date:
-    detail: Sep. 2015
+    detail: Sep. 2014 to Sep. 2017
     i18n: company_c_date
   job:
-    detail: Computational Languistics Center
+    detail: HCM University of Science
     i18n: company_c_job
-  icon: fa-plus-square
+  icon: fa-plus-square 
+
