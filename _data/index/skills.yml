@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: PHP, HTML5, CSS3, Java, Python, C#
-percentage: 99, 99, 99, 80, 70, 80
+aspects: PHP, HTML5, CSS3, Java, Python, C#, JavaScript
+percentage: 99, 99, 99, 80, 70, 80, 90
